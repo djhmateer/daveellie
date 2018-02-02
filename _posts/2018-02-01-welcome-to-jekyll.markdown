@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dave and Ellies Wedding3"
+title:  "Dave and Ellies Wedding4"
 date:   2018-02-01 14:08:12 -0600
 categories: jekyll update
 ---

@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://chugly.github.io/wedding/
+url: https://daveellie.co.uk/
 title: Dave and Ellie Wedding
 email: davemateer@gmail.com
 author: Dave Mateer
@@ -26,7 +26,7 @@ permalink: pretty
 social:
   - title: github
     text: Blog
-    url: https://daveellie.co.uk/
+    url: https://www.github.com/djhmateer/
   - title: instagram
     text: Photos
     url: https://www.instagram.com/explore/tags/chuglywed/

@@ -31,8 +31,9 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/IMG_2304.jpg) no-repeat center center;
+    background: url(../img/snow.jpg) no-repeat center center;
     background-size: cover;
+    background-position: top;
 }
 
 .intro-message {

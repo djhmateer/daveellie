@@ -1,10 +1,10 @@
 ---
 layout: default
-img: style.jpg
+img: kids.jpg
 category: Services
-title: Style 
+title: Kids
 description: |
 ---
 
-Style and dress
+Games for kids
 

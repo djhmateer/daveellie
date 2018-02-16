@@ -1,6 +1,6 @@
 ---
 layout: default
-img: style.jpg
+img: mountain.jpg
 category: Services
 title: Style 
 description: |

@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Chels_Gully_CCTVX.jpg
+img: hill.jpg
 category: Services
 title: Accommodation
 description: |

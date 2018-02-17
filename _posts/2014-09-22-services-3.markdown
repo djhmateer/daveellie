@@ -2,9 +2,10 @@
 layout: default
 img: style.jpg
 category: Services
-title: Style 
+title: Dress Code 
 description: |
 ---
 
-Style and dress
+Glamorous casual
 
+We wil be dressing in formal attire and welcome you to do the same, but as it is a BBQ in a field, we want you to be comfortable.

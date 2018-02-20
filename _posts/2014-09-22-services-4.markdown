@@ -2,9 +2,16 @@
 layout: default
 img: mountain.jpg
 category: Services
-title: Style 
+title: <div id="contact"></div>Contact 
 description: |
 ---
 
-Style and dress
+davemateer@gmail.com
+07584 126022
+
+The Lea (near the primary school)
+Wellgreen Lane
+Kingston near Lewes
+East Sussex
+BN7 3NR
 

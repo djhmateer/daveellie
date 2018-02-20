@@ -2,10 +2,9 @@
 layout: default
 img: hill.jpg
 category: Services
-title: <i class="fa fa-bed" aria-hidden="true"></i> Accommodation
+title: <i id="accommodation" class="fa fa-bed" aria-hidden="true"></i> Accommodation
 description: |
 ---
-
 Kingston is a small village (1 pub) near the historical town of Lewes in East Sussex. There are a few AirBnB's and bed a breakfasts in Kingston, however we recommend you stay in Lewes (or Brighton) to explore some great places. 
 
 It is a 10minute taxi ride (grab a taxi outside the station in Lewes) or an Uber, and it costs around £7 to get to Kingston Primary School (which is close to our house)

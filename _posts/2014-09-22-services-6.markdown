@@ -1,11 +1,9 @@
 ---
 layout: default
-img: 
+img: cement.jpg 
 category: Services
 title: Presents 
 description: |
 ---
 
-Please just bring yourselves, and perhaps a bottle of wine / whatever drinks you'd like to the Wedding. There will be plenty as well at the open bar.
-
-If you 
+We don't need any presents!! However if you'd like to donate a few bags of cement for our house extension (starting next year) we'd really appreciate it.

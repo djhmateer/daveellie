@@ -1,0 +1,9 @@
+---
+layout: default
+img: beer.png
+category: Services
+title: Drinks 
+description: |
+---
+
+Please just bring yourselves, and perhaps a bottle of wine / whatever drinks you'd like to the Wedding. There will be plenty of wine, beer, cider and soft drinks at the bar.

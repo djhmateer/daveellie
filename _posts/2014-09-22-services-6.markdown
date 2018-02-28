@@ -2,8 +2,8 @@
 layout: default
 img: cement.jpg 
 category: Services
-title: Presents 
+title: Gifts 
 description: |
 ---
 
-We don't need any presents!! However if you'd like to donate a few bags of cement for our house extension (starting next year) we'd really appreciate it.
+We don't need any gifts!! However if you'd like to donate a few bags of cement for our house extension (starting next year) we'd really appreciate it.

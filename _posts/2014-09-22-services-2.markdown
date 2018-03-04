@@ -1,6 +1,7 @@
 ---
 layout: default
 img: hill.jpg
+img2: caravan.jpg
 category: Services
 title: <i id="accommodation" class="fa fa-bed" aria-hidden="true"></i> Accommodation
 description: |

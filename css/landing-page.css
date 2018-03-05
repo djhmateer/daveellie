@@ -31,7 +31,9 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
+
     background: url(../img/back.jpg) no-repeat center center;
+    /* background: url(../img/services/sussex.jpg) no-repeat ;  */
     background-size: cover;
     background-position: top;
 }

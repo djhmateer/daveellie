@@ -1,6 +1,7 @@
 ---
 layout: default
 img: beer.png
+img2: pub.jpg
 category: Services
 title: Drinks 
 description: |

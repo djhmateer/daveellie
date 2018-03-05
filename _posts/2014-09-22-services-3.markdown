@@ -1,6 +1,7 @@
 ---
 layout: default
-img: style.jpg
+img: formal.jpg
+img2: formal2.jpg
 category: Services
 title: Dress Code 
 description: |
@@ -8,4 +9,4 @@ description: |
 
 Glamorous casual
 
-We wil be dressing in formal attire and welcome you to do the same, but as it is a BBQ in a field, we want you to be comfortable.
+We will be dressing in formal attire and welcome you to do the same, but as it is a BBQ in a field, we want you to be comfortable.

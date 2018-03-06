@@ -1,7 +1,7 @@
 ---
 layout: default
-img: formal.jpg
-img2: formal2.jpg
+img: formal_small.jpg
+img2: formal2_small.jpg
 category: Services
 title: Dress Code 
 description: |

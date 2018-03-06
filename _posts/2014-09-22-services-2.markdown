@@ -1,8 +1,11 @@
 ---
 layout: default
 img: hill.jpg
+imgText: View into Kingston village from the Downs
 img2: caravan.jpg
+imgText2: The Caravan Field
 img3: sussex.jpg
+imgText3: The Seven Sisters
 category: Services
 title: <i id="accommodation" class="fa fa-bed" aria-hidden="true"></i> Accommodation
 description: |

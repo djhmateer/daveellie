@@ -1,8 +1,6 @@
 ---
 layout: default
 img: mountain.jpg
-img2: mountain2.jpg
-img3: mountain3.jpg
 category: Services
 title: <div id="contact"></div>Contact 
 description: |

@@ -16,6 +16,10 @@
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                  {% if post.imgText %}
+                    {{ post.imgText }}
+                  {% endif %}
+
                   {% if post.img2 %}
                     <br />
                     <img class="img-responsive" src="img/services/{{ post.img2 }}" alt="">
@@ -48,14 +52,28 @@
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                   <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                  {% if post.imgText %}
+                    {{ post.imgText }}
+                    <br />
+                  {% endif %}
                   <br />
+
                   {% if post.img2 %}
                      <img class="img-responsive" src="img/services/{{ post.img2 }}" alt="">
-                     <br />
                   {% endif %}
+                  {% if post.imgText2 %}
+                    {{ post.imgText2 }}
+                    <br />
+                  {% endif %}
+                    <br />
                   {% if post.img3 %}
                      <img class="img-responsive" src="img/services/{{ post.img3 }}" alt="">
                   {% endif %}
+                  {% if post.imgText3 %}
+                    {{ post.imgText3 }}
+                    <br />
+                  {% endif %}
+
                 </div>
             </div>
 

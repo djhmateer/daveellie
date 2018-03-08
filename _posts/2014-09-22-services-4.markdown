@@ -2,7 +2,7 @@
 layout: default
 img: wildflowers.jpg 
 # img2: mountain2.jpg
-img3: mountain3_small.jpg
+# img3: mountain3_small.jpg
 category: Services
 title: Theme 
 description: 

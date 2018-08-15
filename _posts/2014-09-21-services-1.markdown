@@ -2,7 +2,7 @@
 layout: default
 img: save-the-date.jpg 
 category: Services
-title: Location and schedule
+title: Location, schedule and taxis
 description: |
 ---
 ### Saturday, 18th August 2018
@@ -22,4 +22,20 @@ description: |
 ### Sunday, 19th August 2018
 - **10:30** Continental breakfast in the caravan field  
 
-We will have a lazy brunch in the field.
+We will have a lazy brunch in the field.  
+
+## Taxis
+We are in the **caravan field just before the primary school** in Kingston. Look for balloons and a wedding sign.  
+
+Here are the local taxi companies 
+
+- 01273 474 444 Lewes County Cars
+- 01273 437 737 and 01273 477 567  GM Taxis
+- 01273 483 232 Lewes Taxis
+- 01273 474 747 Lewes Town Taxis
+- 01273 480 000 Lewes Station Cars
+
+If you need a ride from Lewes to the caravan field stand outside **Lewes railway station** and a taxi will come. There is also a taxi shopfront just opposite the train station.
+
+
+

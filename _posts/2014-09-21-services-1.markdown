@@ -3,7 +3,7 @@ layout: default
 img: save-the-date.jpg 
 category: Services
 title: Location, schedule and taxis
-description: |
+description: 
 ---
 ### Saturday, 18th August 2018
 - **15:00** Main event starts
